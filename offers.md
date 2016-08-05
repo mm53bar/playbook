@@ -1,4 +1,7 @@
-Offer and Onboarding
+#Offer and Onboarding
+
+(stolen from https://thoughtbot.com/playbook/our-company/hiring)
+
 We use RightSignature ($14-$49/month) to send the offer and get them signed without the "print and scan" process on either end.
 
 Offers are reviewed and approved by at least one member of the C-level executive team before being sent. C-level executives and Managing Directors can execute offers on behalf of thoughtbot.
