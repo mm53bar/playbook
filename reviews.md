@@ -1,5 +1,7 @@
 #Quarterly Reviews
 
+(stolen from https://thoughtbot.com/playbook/our-company/hiring)
+
 In order to continually improve ourselves and the company, all year round on every project we're on, we receive regular feedback from clients, managers, and teammates. We additionally have formal quarterly reviews.
 
 During onboarding, a "Quarterly Review" calendar event is created, set to recur once every 3 months, starting from the hire date.
